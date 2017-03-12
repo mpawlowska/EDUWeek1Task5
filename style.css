@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+    font-family: "Arial"
+    font-size: smaller;
+    width: 80%;
+}
+
+li {
+    margin-top: 10px;
+}
+
+li:nth-child(odd) {
+    background-color: lightgrey;
+}
